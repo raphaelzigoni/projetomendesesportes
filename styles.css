@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(85, 101, 115, 1) 100%);
+}
+
+.logotipo {
+    width: 50%;
+    position: absolute;
+    left: 21%;
+    top: 30px;
+}
+
+.texto_1 {
+    position: absolute;
+    top: 280px;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-size: 18px;
+    letter-spacing: 1px;
+    left: 125px;
+}
+
+.texto_2 {
+    color: #FFFFFF;
+    position: absolute;
+    top: 330px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Poppins';
+    left: 30px;
+}
+
+.texto_3 {
+    color: #35dd38;
+    position: absolute;
+    top: 350px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Poppins';
+    left: 85px;
+}
+
+.contato {
+    font-family: 'Poppins';
+    position: absolute;
+    top: 450px;
+    left: 150px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.botaowpp {
+    position: absolute;
+    top: 445px;
+    left: 100px;
+    width: 35px;
+}
